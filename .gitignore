@@ -1,3 +1,6 @@
+build/
+include/glm/
+
 # Prerequisites
 *.d
 
